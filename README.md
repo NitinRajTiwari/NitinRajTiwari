@@ -46,7 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitinRajTiwari&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinRajTiwari&theme=radical" alt="streak" height="180"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinRajTiwari&layout=compact&theme=radical" alt="languages" />
