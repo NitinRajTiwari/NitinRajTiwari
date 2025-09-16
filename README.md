@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NitinRajTiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
