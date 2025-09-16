@@ -45,37 +45,16 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitin&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NitinRajTiwari&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinRajTiwari&theme=radical" alt="streak" height="180"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinRajTiwari&layout=compact&theme=radical" alt="languages" />
 </p>
-
 ---
-
-## 🎖 Certifications  
-- ✅ Java Full Stack – [Code for Success](#)  
-- ✅ Data Analytics – [PW Skills](#)  
-
----
-
-## 🌍 Languages  
-- **English** – Fluent  
-- **Hindi** – Fluent  
-
----
-
 ## 📫 Let’s Connect!  
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn">
+  <a href="www.linkedin.com/in/nitin-raj-tiwari-34505525b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YourUsername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
