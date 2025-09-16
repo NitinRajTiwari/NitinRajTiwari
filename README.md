@@ -1,11 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 <h3 align="center">A Passionate Developer | Problem Solver | Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NitinRajTiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me    
@@ -43,14 +38,15 @@
 ---
 
 ## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitinRajTiwari&show_icons=true&theme=radical" alt="stats" height="180"/>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinRajTiwari&layout=compact&theme=radical" alt="languages" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NitinRajTiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
+
 ## 📫 Let’s Connect!  
 <p align="center">
   <a href="www.linkedin.com/in/nitin-raj-tiwari-34505525b">
